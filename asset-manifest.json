@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vong_quay_may_man/static/css/main.2b11f081.css",
+    "main.js": "/vong_quay_may_man/static/js/main.abd776ef.js",
+    "static/js/787.174a0e6e.chunk.js": "/vong_quay_may_man/static/js/787.174a0e6e.chunk.js",
+    "static/media/VONG QUAY hu tech-01.png": "/vong_quay_may_man/static/media/VONG QUAY hu tech-01.c7f190da75d8def0f8e3.png",
+    "static/media/banner.jpg": "/vong_quay_may_man/static/media/banner.3fb9ff1b41e2da418bc0.jpg",
+    "static/media/anh3.jpg": "/vong_quay_may_man/static/media/anh3.50cb2beba3207538af9f.jpg",
+    "static/media/qr kq.jpg": "/vong_quay_may_man/static/media/qr kq.0811830162865a14da52.jpg",
+    "static/media/1.png": "/vong_quay_may_man/static/media/1.0a95ee891e72e5174bbc.png",
+    "static/media/anh2.jpg": "/vong_quay_may_man/static/media/anh2.4b1cc4e0f1df7e5f2572.jpg",
+    "static/media/NUT VONG QUAY hu tech-02.png": "/vong_quay_may_man/static/media/NUT VONG QUAY hu tech-02.3978d1391b1031adffb5.png",
+    "static/media/2.png": "/vong_quay_may_man/static/media/2.d04e4f373777fbe46052.png",
+    "static/media/3.png": "/vong_quay_may_man/static/media/3.5ba32ac14b7a7fb3d653.png",
+    "static/media/5.png": "/vong_quay_may_man/static/media/5.085ff9da5b7600f89c08.png",
+    "static/media/4.png": "/vong_quay_may_man/static/media/4.043ddc9ae9f491745ffb.png",
+    "static/media/mui ten.png": "/vong_quay_may_man/static/media/mui ten.c93b04aab04ec4e4e070.png",
+    "index.html": "/vong_quay_may_man/index.html",
+    "main.2b11f081.css.map": "/vong_quay_may_man/static/css/main.2b11f081.css.map",
+    "main.abd776ef.js.map": "/vong_quay_may_man/static/js/main.abd776ef.js.map",
+    "787.174a0e6e.chunk.js.map": "/vong_quay_may_man/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b11f081.css",
+    "static/js/main.abd776ef.js"
+  ]
+}
